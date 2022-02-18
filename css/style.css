@@ -175,8 +175,8 @@ img {
 }
 
 .text {
-  margin: auto;
-  max-height: 25%;
+  align-self: center;
+  max-height: 25vh;
   overflow: scroll;
 }
 
